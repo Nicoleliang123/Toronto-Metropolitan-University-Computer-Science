@@ -2,5 +2,10 @@
 
 ## Contains course CPS109 and CPS209 taken at TMU with labs, projects, quizzes and any associated work.
 
-Course Outline 
-CPS109 | 
+Course Taken
+
+--------**Year 1**--------
+
+**CPS109** | Fall 2025
+
+**CPS209** | Winter 2026
