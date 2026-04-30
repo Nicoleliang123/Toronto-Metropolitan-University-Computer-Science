@@ -1,2 +1,6 @@
 # Toronto Metropolitan University Computer Science
-Contains assignment, projects, labs or any associated work with TMU in Computer Science courses
+
+## Contains course CPS109 and CPS209 taken at TMU with labs, projects, quizzes and any associated work.
+
+Course Outline 
+CPS109 | 
