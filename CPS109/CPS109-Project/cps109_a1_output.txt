@@ -1,0 +1,4 @@
+Polynomial: x^4 - 2x^2 + 5
+Simplified: x^4 - 2.0x^2 + 5.0
+Derivative: 4x^3 - 4.0x
+Value at x = 2.0: 13.0
